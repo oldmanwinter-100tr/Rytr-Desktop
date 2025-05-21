@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b1af8451-f8bc-46b3-b63e-f4f596bcaa36)
+
 # Rytr Desktop — Fully Unlocked AI-Powered Writing Assistant
 
 **Rytr Desktop** is a fully-featured desktop application designed for AI-assisted text creation and editing.  
@@ -14,7 +16,7 @@ It offers unrestricted access to all core functionalities — from intelligent c
 
 ## 🚀 Installation
 
-1. Download the latest release from this repository.
+1. Download the [latest release](mailto:support@rytrdesktop.com) from this repository.
 2. Run the installer and follow the setup instructions.
 3. Launch Rytr Desktop — all features are immediately available, no sign-up required.
 
